@@ -21,11 +21,11 @@ This will be the outline going over the different portions of the Final Project.
 - ## Linked Lists
     - Introduction
         - Describe what a Linked List is, provide a visual of what it could be. [Linked List Lesson](https://byui-cse.github.io/cse212-course/lesson04/04-prepare.html#1.4)
-                ![Linked List](images\linked_list.jpeg)
+                ![Linked List](images/linked_list.jpeg)
                     - Also give link to the code example to easily navigate there
                         - [README file](README.md)
-        - Also give an example of Doubkle Linked List:
-                ![Double Linked List](images\linked_list_double.jpeg)
+        - Also give an example of Double Linked List:
+                ![Double Linked List](images/linked_list_double.jpeg)
     - Inserting into a linked list:
         - [Linked List Insert](https://byui-cse.github.io/cse212-course/lesson07/07-prepare.html#1.2)
     - Removing from a linked list: 
@@ -36,7 +36,7 @@ This will be the outline going over the different portions of the Final Project.
 - ## Trees
     - Introduction
         - Describe what a Tree is, provide a visual of what it could be. [Tree Lesson](https://byui-cse.github.io/cse212-course/lesson09/09-prepare.html)
-                ![Linked List](images\binary_search_tree.png)
+                ![Linked List](images/binary_search_tree.png)
                     - Also give link to the code example to easily navigate there:
                         - [README file](README.md)
     - Inserting into a Binary Search Tree:
