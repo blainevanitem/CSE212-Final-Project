@@ -17,13 +17,14 @@ This will be the outline going over the different portions of the Final Project.
         - Describe what a Queue is, provide a visual of what it could be.
         ![Queue](images/queue_example.png)
             - Also give link to the code example to easily navigate there
+                                    - [Queue Python Example](1-queue.py)
         - I can use some information found here [Queue Lesson](https://byui-cse.github.io/cse212-course/lesson07/07-prepare.html#1.1)
 - ## Linked Lists
     - Introduction
         - Describe what a Linked List is, provide a visual of what it could be. [Linked List Lesson](https://byui-cse.github.io/cse212-course/lesson04/04-prepare.html#1.4)
                 ![Linked List](images/linked_list.jpeg)
                     - Also give link to the code example to easily navigate there
-                        - [README file](README.md)
+                        - [Linked List Python Example](2-linked_list.py)
         - Also give an example of Double Linked List:
                 ![Double Linked List](images/linked_list_double.jpeg)
     - Inserting into a linked list:
@@ -38,7 +39,7 @@ This will be the outline going over the different portions of the Final Project.
         - Describe what a Tree is, provide a visual of what it could be. [Tree Lesson](https://byui-cse.github.io/cse212-course/lesson09/09-prepare.html)
                 ![Linked List](images/binary_search_tree.png)
                     - Also give link to the code example to easily navigate there:
-                        - [README file](README.md)
+                        - [Tree Python Example](3-trees.py)
     - Inserting into a Binary Search Tree:
         - [Binary Search Tree Insert](https://byui-cse.github.io/cse212-course/lesson09/09-prepare.html#1.4)
     - Removing from a linked list: 
