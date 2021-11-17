@@ -1,5 +1,5 @@
 # CSE212-Final-Project
-This will be the final project for my Programming with Data Structures class. 
+This will be the final project for my Programming with Data Structures class. To outline: [Outline](W10-Prove-FinalProject-Outline.md)
 
 # Here are the instructions for the assignment:
 ## Final Project Description
