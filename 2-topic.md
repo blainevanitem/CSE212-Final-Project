@@ -1,22 +1,16 @@
 # Linked Lists
 ## What is a linked list in python?
 
-In Python, a linked list is...
+In Python, a linked list is a collection of data structures known as nodes. Where the term "linked list" comes from is how the different nodes are setup to be linked together. Each node contains a data value, a head, and a tail. The head of the node points to the node that was placed in front of it and if it is the first in the linked list is classified as the head of the linked list. Likewise, the tail is the last node in the linked list. 
 
-Describe what a Linked List is, provide a visual of what it could be. [Linked List Lesson](https://byui-cse.github.io/cse212-course/lesson04/04-prepare.html#1.4)
+Common functions for this data set are changing the head or tail, as well as removing a node from the linked list. When removing a node from a linked list you have to remove both the connection between the node before it and after it. Then you update the next and previous pointers.
+
+A linked list is:
 ![Linked List](images/linked_list.jpeg)
 
-Also give link to the code example to easily navigate there
+For an example of a linked list in python click here:
 [Linked List Python Example](2-linked_list.py)
-Also give an example of Double Linked List:
 
+
+A double linked list is:
 ![Double Linked List](images/linked_list_double.jpeg)
-
-Inserting into a linked list:
-[Linked List Insert](https://byui-cse.github.io/cse212-course/lesson07/07-prepare.html#1.2)
-
-Removing from a linked list: 
-[Linked List Remove](https://byui-cse.github.io/cse212-course/lesson07/07-prepare.html#1.3)
-
-Accessing items in a linked list:
-[Linked List Access](https://byui-cse.github.io/cse212-course/lesson07/07-prepare.html#1.4)
