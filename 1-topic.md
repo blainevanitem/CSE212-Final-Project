@@ -1,7 +1,7 @@
 # Python Queues
 ## What is a Python Queue?
 
-In python, a queue is a data structure following the common practice of "FIFO". This is otherwise known as "First in, First Out". The benefit of using the "FIFO" method is it provides everyone a fair opportunity to access something. In real like this would be like people waiting in line for a cashier. It allows everyone to gain access to the cashier, give the cashier their groceries and get checked out. 
+<font size=3>In python, a queue is a data structure following the common practice of "FIFO". This is otherwise known as "First in, First Out". The benefit of using the "FIFO" method is it provides everyone a fair opportunity to access something. In real like this would be like people waiting in line for a cashier. It allows everyone to gain access to the cashier, give the cashier their groceries and get checked out. 
 
 The common terms for this data structure are Enqueue and Dequeue. Enqueue is when we place a new item into the queue, or if someone joins the end of the line in a checkout line. Dequeue is the opposite where the item that is oldest or at the first spot in the queue is taken off.
 

@@ -1,7 +1,7 @@
 # Binary Trees
 ## What is a binary tree in python?
 
-In Python, a tree is another example of a linked list but can be linked to different nodes extending from it. Although they can link to multiple other nodes, there are different kinds of python trees that have separate purposes. 
+<font size=3>In Python, a tree is another example of a linked list but can be linked to different nodes extending from it. Although they can link to multiple other nodes, there are different kinds of python trees that have separate purposes. 
 
 ## Binary Trees
 - 
