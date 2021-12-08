@@ -50,7 +50,7 @@ The performance of the different functions associated with python queues are as 
 
 
 ## Now for practice!
-The best way to learn is to code it yourself. For the problem you will have to ...
+The best way to learn is to code it yourself. For the problem you will have 10 customers that are getting in line(enqueue) to checkout at the grocery store. You have to make sure that all of them scan their items and are then checked out(dequeued) from the checkout line. Make sure to print out the items that each customer has the cashier ring out.
 
 After working through it you can compare your solution to the file here: [Queue Python Solution](1-queue.py)
 
