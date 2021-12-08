@@ -24,18 +24,13 @@ A real world example of a practical use of this would be...
 ### The performance of the different functions associated with python queues are as follows: 
 
 
-
-
 ![Linked List](images/binary_search_tree.png)
+]
 
-## Python Tree Example
-They python code for a tree can be found here: 
-[Queue Tree Example](3-trees.py)
+## Now for practice!
+The best way to learn is to code it yourself. For the problem you will have to ...
 
-Another problem and a solution linked with the python code...
-
-# Insert screenshot of working code here with comments
-
+After working through it you can compare your solution to the file here: [Trees Python Solution](3-trees.py)
 
 <!-- You should have an example problem that you propose and then help the student walk through to the solution.
 You should also have a problem that the student solves (with a link to your solution). It looks like your example problem file is empty at this point. -->

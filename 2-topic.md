@@ -40,10 +40,10 @@ A double linked list is one that has both a next and previous pointer, rather th
 
 ![Double Linked List](images/linked_list_double.jpeg)
 
+## Now for practice!
+The best way to learn is to code it yourself. For the problem you will have to ...
 
-Another problem and a solution linked with the python code...
-
-# Insert screenshot of working code here with comments
+After working through it you can compare your solution to the file here: [Linked List Python Solution](2-linked_list.py)
 
 <!-- You should have an example problem that you propose and then help the student walk through to the solution.
 You should also have a problem that the student solves (with a link to your solution). It looks like your example problem file is empty at this point. -->
