@@ -8,6 +8,8 @@ def main():
     checkout_line = enqueue_all(checkout_line,customers)
     dequeue_all(checkout_line)
 
+
+
 def enqueue_all(checkout_line,customers):
     for i in range(len(customers)):
         checkout_line.append(customers[i])
@@ -18,7 +20,8 @@ def dequeue_all(checkout_line):
     for i in range(len(checkout_line)):
         print(f'Checking out {checkout_line[i].name} ----------------------------------')
         for j in checkout_line[i].items:
-            time.sleep(0.2)
+            time.sleep(0.3)
+            print("** Beep **")
             print("Scanned: " + j + " for " + checkout_line[i].name)
         print("\n")
     for i in range(len(checkout_line)):
