@@ -6,6 +6,10 @@
 Common functions for this data set are changing the head or tail, as well as removing a node from the linked list. When removing a node from a linked list you have to remove both the connection between the node before it and after it. Then you update the next and previous pointers.
 
 A real world example of a practical use of this would be...
+```python
+    def hello():
+
+```
 
 A linked list is:
 ![Linked List](images/linked_list.jpeg)
@@ -13,7 +17,7 @@ A linked list is:
 For an example of a linked list in python code click here:
 [Linked List Python Example](2-linked_list.py)
 
-The performance of the different functions associated with python queues are as follows: 
+### The performance of the different functions associated with python queues are as follows: 
 
             insert/remove head or the tail(value) - Also known as appending to the beginning or the end of the linked list.
                 Performance = O(1)
@@ -25,8 +29,10 @@ The performance of the different functions associated with python queues are as 
                 Performance = O(n)
 
             size() - This will return how many nodes there are in the linked list.
+                Performance = O(1)
 
             empty() - Will return true if there are no nodes in the linked list.
+                Performance = O(1)
 
 
 
@@ -34,4 +40,10 @@ A double linked list is one that has both a next and previous pointer, rather th
 
 ![Double Linked List](images/linked_list_double.jpeg)
 
+
+Another problem and a solution linked with the python code...
+
 # Insert screenshot of working code here with comments
+
+<!-- You should have an example problem that you propose and then help the student walk through to the solution.
+You should also have a problem that the student solves (with a link to your solution). It looks like your example problem file is empty at this point. -->

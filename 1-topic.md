@@ -5,8 +5,12 @@
 
 The common terms for this data structure are Enqueue and Dequeue. Enqueue is when we place a new item into the queue, or if someone joins the end of the line in a checkout line. Dequeue is the opposite where the item that is oldest or at the first spot in the queue is taken off.
 
-The python queue follows this same idea. One example would be when a website has a high volume of requests and is throttling the connection of the visitors. To be fair, it will allow those who joined first to be allowed access into the website at the earliest possible time and retrieve the data that they requested. 
+The python queue follows this same idea. One example would be when a website has a high volume of requests and is throttling the connection of the visitors. To be fair, it will allow those who joined first to be allowed access into the website at the earliest possible time and retrieve the data that they requested.
 
+```python
+    def hello():
+
+```
 
 ![Queue](images/queue_example.png)
 
@@ -26,6 +30,13 @@ The performance of the different functions associated with python queues are as 
 They python code for queues can be found here: 
 [Queue Python Example](1-queue.py)
 
+
+Another problem and a solution linked with the python code...
+
 # Insert screenshot of working code here with comments
 
 
+
+<!-- 
+You should have an example problem that you propose and then help the student walk through to the solution.
+You should also have a problem that the student solves (with a link to your solution). It looks like your example problem file is empty at this point. -->
