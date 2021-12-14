@@ -13,6 +13,8 @@ def main():
 def enqueue_all(checkout_line,customers):
     for i in range(len(customers)):
         checkout_line.append(customers[i])
+        print(f'{customers[i].name} got into line!')
+        time.sleep(0.2)
     
     return checkout_line
 
